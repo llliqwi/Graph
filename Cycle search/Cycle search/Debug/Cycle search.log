@@ -1,0 +1,4 @@
+﻿  Cycle search.cpp
+C:\Users\liqwi\source\repos\Cycle search\Cycle search\Cycle search.cpp(13,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\liqwi\source\repos\Cycle search\Cycle search\Cycle search.cpp(55,18): warning C4018: <: несоответствие типов со знаком и без знака
+  Cycle search.vcxproj -> C:\Users\liqwi\source\repos\Cycle search\Debug\Cycle search.exe
